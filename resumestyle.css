@@ -1,0 +1,45 @@
+*{
+    background-color: #F5FFFA;
+    color: #4b0082;
+    font-size: 14pt;
+}
+body{
+    font-family: Calibri, Californian FB, and sans-serif;
+    margin-left: 10%;
+    margin-top: 3em;
+    width:80%;
+}
+h1{
+    font-size: 2.2em;
+    color:rgb(65, 105, 225);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 0px;
+}
+h2{
+    color:royalblue;
+    margin-bottom: 0px;
+    margin-top: 1.5em;
+}
+h3{
+    font-style: italic;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+p{
+    margin-left: 4%;
+}
+ul{
+    margin-left: 2%;
+}
+p,ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+hr{
+    height: 4px;
+    color:#000080;
+    background-color: #4169E1;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
